@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cards_portal_react/static/css/main.a7be7612.css",
+    "main.js": "/Cards_portal_react/static/js/main.20cedf28.js",
+    "static/js/787.f67af63c.chunk.js": "/Cards_portal_react/static/js/787.f67af63c.chunk.js",
+    "static/media/background_students.png": "/Cards_portal_react/static/media/background_students.f48cd59392a68e482f53.png",
+    "static/media/game.svg": "/Cards_portal_react/static/media/game.e30b01aa03015f164f5f.svg",
+    "static/media/almaz.svg": "/Cards_portal_react/static/media/almaz.8fc2f9d83a91290d47b6.svg",
+    "index.html": "/Cards_portal_react/index.html",
+    "static/media/search_students.svg": "/Cards_portal_react/static/media/search_students.9920f408ba34821be74f.svg",
+    "static/media/profile.svg": "/Cards_portal_react/static/media/profile.3e4f63626cdb35a1cca7.svg",
+    "static/media/filter_students.svg": "/Cards_portal_react/static/media/filter_students.72e33a0473d6670d4a0e.svg",
+    "static/media/arrow_back.svg": "/Cards_portal_react/static/media/arrow_back.e76ac6f24acccb104f2e.svg",
+    "static/media/arrow_select.svg": "/Cards_portal_react/static/media/arrow_select.70714b3909eb1c3be354.svg",
+    "main.a7be7612.css.map": "/Cards_portal_react/static/css/main.a7be7612.css.map",
+    "main.20cedf28.js.map": "/Cards_portal_react/static/js/main.20cedf28.js.map",
+    "787.f67af63c.chunk.js.map": "/Cards_portal_react/static/js/787.f67af63c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7be7612.css",
+    "static/js/main.20cedf28.js"
+  ]
+}
